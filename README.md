@@ -1,0 +1,1 @@
+# Practice 9. Lambda expressions and streams
